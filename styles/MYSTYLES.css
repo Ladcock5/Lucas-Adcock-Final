@@ -62,7 +62,7 @@ h1 {
 }
 .border-1 {
   border: mintcream;
-  border-width: thick;
+  border-width: 50px;
   border-style: double;
 }
 .t_header {
